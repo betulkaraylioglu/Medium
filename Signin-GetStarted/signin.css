@@ -1,0 +1,55 @@
+.welcome{
+    text-align: center;
+    margin: 100px;
+    border: 1px solid rgb(213, 213, 213);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 730px;
+}
+@media screen and (min-width: 904px) {
+    .welcome{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        height: 675px;
+    }
+}
+.back{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.sosyal{
+    background-color: white;
+    border: 0.5px solid gray;
+    border-radius: 20px;
+    width: 240px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.medya{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.account{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.one{
+    color: green;
+    text-decoration: none;
+}
+.forgot{
+    font-size: small;
+    color: gray;
+}
+.get{
+    color: gray;
+}
+.click{
+    font-size: small;
+    color: gray;
+    margin-left: 35px;
+    margin-right: 35px;
+}
